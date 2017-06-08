@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="me.fanjie.testfaceplusplus.facedetect.MainActivity">
+    <item
+        android:id="@+id/add_face"
+        android:orderInCategory="100"
+        android:title="添加小仙女"
+        android:visible="false"
+        app:showAsAction="ifRoom" />
+</menu>
